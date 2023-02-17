@@ -1,5 +1,6 @@
 # ESP-harpe
 
+Harpe électrique pour frelons asiatiques
 
 ![alt text](https://github.com/RoDFH/ESP-harpe/blob/main/pictures/harpe-schematics-v0.2.jpg)
 
