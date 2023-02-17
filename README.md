@@ -8,7 +8,7 @@ Liste du matériel:
 
 - 1 panneau solaire 5/6V
 - 1 Wemos D1 (mini/pro/V3.0)
-- 1 HT7333
+- 1 HT7333 (TO92)
 - 1 IRLZ44N (ou équivalent)
 - 1 résistance 10K 
 - 2 résistances 1K
