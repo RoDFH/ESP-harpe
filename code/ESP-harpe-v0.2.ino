@@ -1,6 +1,5 @@
 #include <ESP8266WiFi.h>
 
-int counter = 0;
 const int sleepTimeS = 600; //  Seconds for DeepSleep
 
 const int MOSpin = D6;
